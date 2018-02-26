@@ -8,7 +8,7 @@ var connection = mysql.createConnection({
     port: 3000,
     user: 'root',
     password: '',
-    database: 'bamazon_db',
+    database: 'bamazon_DB',
 })
 
 // counter for total number of products
